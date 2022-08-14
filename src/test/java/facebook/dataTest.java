@@ -10,4 +10,15 @@ public class dataTest {
 	{
 		System.out.println("hello ");
 	}
+	
+	
+	
+	@Test
+	public void testdatamethods()
+	{
+		System.out.println("hello teja ");
+	}
 }
+
+
+
